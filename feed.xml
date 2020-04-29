@@ -29,17 +29,6 @@
       </item>
     
       <item>
-        <title>Test markdown</title>
-        <description>
-          Each post also has a subtitle - 
-          You can write regular markdown here and Jekyll will automatically convert it to a nice webpage. I strongly encourage you to take 5 minutes to learn how to write in markdown - it’ll teach you how to transform regular text into bold/italics/headings/tables/etc. Here is some bold text Here is a...
-        </description>
-        <pubDate>Sat, 28 Feb 2015 00:00:00 -0500</pubDate>
-        <link>http://hey-what.com/2015-02-28-test-markdown/</link>
-        <guid isPermaLink="true">http://hey-what.com/2015-02-28-test-markdown/</guid>
-      </item>
-    
-      <item>
         <title>Flake it till you make it</title>
         <description>
           Excerpt from Soulshaping by Jeff Brown - 
