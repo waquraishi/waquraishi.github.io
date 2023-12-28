@@ -3,6 +3,7 @@ title: Icleand - What Its Known For
 tags: [iceland]
 image: 
     path: /assets/images/iceland.jpg
+categories: [iceland]    
 ---
 
 # Iceland: Places To See 🇮🇸 
