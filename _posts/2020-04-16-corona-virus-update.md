@@ -11,7 +11,7 @@ all of the post-apocalyptic movies and stories we read are all coming true.  Alt
 ## Deaths in Virginia
 As of this morning, our state is 18th in the nation in terms of overall infections at 6,182. The top infected county which shouldn't come as a surprise is Fairfax.  It's in northern Virgina so closer proximity to New York as well as it being a densely, populated urban area.  
 
-To get the latest figures, visit my favorite Covid-19 stats aggregator site [Corona Stats](http://coronastats.co).
+To get the latest figures, visit my favorite Covid-19 stats aggregator site [Corona Stats](http://coronastats.com).
 
 
 ## My Thoughts
