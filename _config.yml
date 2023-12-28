@@ -34,7 +34,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
+  name: Site Admin
   email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
@@ -73,7 +73,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: "https://2.gravatar.com/avatar/f2faa82758aeadde8fc013a95fcbbdd32d61391ea6b7c9db2df4e8687a6d2673?size=512"
 
 # boolean type, the global switch for TOC in posts.
 toc: true
