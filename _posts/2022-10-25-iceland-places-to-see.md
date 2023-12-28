@@ -5,7 +5,7 @@ image:
     path: /assets/images/iceland.jpg
 ---
 
-# Iceland: What It's Known For 🇮🇸 
+# Iceland: Places To See 🇮🇸 
 - - -
 Iceland is known for its stunning waterfalls, and there are several worth exploring. Here are a few notable ones:
 
