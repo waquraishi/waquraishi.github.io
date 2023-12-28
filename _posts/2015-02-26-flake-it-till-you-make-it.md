@@ -1,7 +1,7 @@
 ---
 title: Flake It Till You Make It
 tags: [books, spiritual]
-categories: [spiritual, mindfulness]
+categories: [spiritual]
 #image:
 #    path: /assets/images/bugs.png
 ---
