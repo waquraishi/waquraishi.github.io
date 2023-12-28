@@ -1,6 +1,6 @@
 ---
 title: Post Malone Nirvana Tribute
-tags: [post malone, nirvana, covid-19, COVID-19 Solidarity Response Fund for WHO]
+tags: [post malone, nirvana, covid-19]
 image: 
     path: /assets/images/nirvana.jpg
 ---
