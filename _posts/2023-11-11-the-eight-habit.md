@@ -3,12 +3,9 @@ title: The 8the Habit
 tags: [books]
 image: 
     path: /assets/images/IMG_0049.jpeg
-
 categories: [books]    
 ---
 
-# The 8th Habit
-___
 ## Recap
 * **Finding Your Voice:**
   * **Passion and Talent:** Identify what you are passionate about and where your natural talents lie.
