@@ -6,8 +6,6 @@ image:
 categories: [iceland]    
 ---
 
-# Iceland: Places To See 🇮🇸 
-- - -
 Iceland is known for its stunning waterfalls, and there are several worth exploring. Here are a few notable ones:
 
 1. **Gullfoss:** Part of the Golden Circle, Gullfoss is a powerful two-tiered waterfall on the Hvítá River.
@@ -18,5 +16,3 @@ Iceland is known for its stunning waterfalls, and there are several worth explor
 6. **Dettifoss:** In the northeast, it's one of Europe's most powerful waterfalls, located in Vatnajökull National Park.
 
 These are just a few examples, and there are many more scattered throughout the country. Each has its own charm and character, offering a great opportunity to experience Iceland's natural beauty.
-- - -
-#vacation/iceland
