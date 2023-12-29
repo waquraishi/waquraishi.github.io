@@ -2,7 +2,7 @@
 title: The 8the Habit
 tags: [books]
 image: 
-    path: ![image](https://github.com/waquraishi/waquraishi.github.io/assets/63476767/448400e9-e741-4ca9-b8c0-80fc1b1b934e)
+    path: /assets/images/IMG_0049.jpeg
 
 categories: [books]    
 ---
