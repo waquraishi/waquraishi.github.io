@@ -35,3 +35,4 @@ categories: [books]
   * **Consistency:** Be consistent in living out your principles and values in all aspects of your life.
 
 > By integrating these aspects into your life, you not only find personal fulfillment but also contribute to a positive and synergistic environment that inspires others to do the same. The 8th Habit is ultimately about embracing leadership that transcends individual success and contributes to a collective journey towards greatness.
+
