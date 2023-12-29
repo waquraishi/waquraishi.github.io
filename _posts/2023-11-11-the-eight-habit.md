@@ -1,5 +1,5 @@
 ---
-title: The 8the Habit
+title: The 8th Habit
 tags: [books]
 image: 
     path: /assets/images/IMG_0049.jpeg
