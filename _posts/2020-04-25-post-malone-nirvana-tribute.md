@@ -5,7 +5,7 @@ image:
     path: /assets/images/nirvana.jpg
 categories: [covid-19]
 ---
-## Stay Home To Stay Safe
+
 Post Malone recently performed a Nirvana tribute show.  Livestreamed on April 24, 2020 at 6PM EST from his house.  It was to raise awareness for COV-19.  
 
 > `100%!` of the proceeds went directly to the World Health Organization.
