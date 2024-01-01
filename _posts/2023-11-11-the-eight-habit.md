@@ -4,6 +4,7 @@ tags: [books]
 image: 
     path: /assets/images/IMG_0049.jpeg
 categories: [books]    
+pin: true
 ---
 
 > By integrating these aspects into your life, you not only find personal fulfillment but also contribute to a positive and synergistic environment that inspires others to do the same. The 8th Habit is ultimately about embracing leadership that transcends individual success and contributes to a collective journey towards greatness.
